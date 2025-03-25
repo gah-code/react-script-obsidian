@@ -1,6 +1,8 @@
 
 # React Course Vault Setup Script 1.0.0
 
+![Obsidian Version One Setup](./screen-shot.png)
+
 **Chapters**  
 
 1. [Introduction](#chapter-1-introduction)  
