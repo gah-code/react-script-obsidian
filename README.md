@@ -193,7 +193,8 @@ You now have a **powerful, automated setup** to kick-start your React learning o
 - **Install Another Plugin**: **Canvas** or a similar plugin to map out React concepts visually.
 
 **Happy Learning & Note-Taking!**
----
 
-![Obsidian Version One Setup](./screen-shot-1.png)
-![Obsidian Version One Setup](./screen-shot-2.png)
+![Obsidian Version Two Setup](./screen-shot-1.png)
+![Obsidian Version Three Setup](./screen-shot-2.png)
+
+---
