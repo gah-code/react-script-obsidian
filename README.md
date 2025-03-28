@@ -1,10 +1,4 @@
 
-`
-
-If you prefer the full revised README.md, here’s the updated file with only the Chapter 6 section changed:
-
----
-
 # React Course Vault Setup Script 1.0.0
 
 ![Obsidian Version One Setup](./screen-shot.png)
@@ -20,6 +14,8 @@ If you prefer the full revised README.md, here’s the updated file with only th
 7. [Customization](#chapter-7-customization)  
 8. [Next Steps in Obsidian](#chapter-8-next-steps-in-obsidian)  
 9. [Conclusion](#chapter-9-conclusion)
+
+---
 
 ---
 
@@ -187,10 +183,7 @@ React_Course_Vault
 
 ## **Chapter 9: Conclusion**
 
-You now have a **powerful, automated setup** to kick-start your React learning or teaching in Obsidian. Feel free to adapt, remix, or extend these notes to create a personalized environment.
-
-> **Questions or suggestions?**  
-> Don’t hesitate to reach out or customize this setup further!
+You now have a **powerful, automated setup** to kick-start your React learning or teaching in Obsidian.
 
 ---
 
@@ -201,3 +194,6 @@ You now have a **powerful, automated setup** to kick-start your React learning o
 
 **Happy Learning & Note-Taking!**
 ---
+
+![Obsidian Version One Setup](./screen-shot-1.png)
+![Obsidian Version One Setup](./screen-shot-2.png)
