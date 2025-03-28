@@ -194,7 +194,4 @@ You now have a **powerful, automated setup** to kick-start your React learning o
 
 **Happy Learning & Note-Taking!**
 
-![Obsidian Version Two Setup](./screen-shot-1.png)
-![Obsidian Version Three Setup](./screen-shot-2.png)
-
 ---
